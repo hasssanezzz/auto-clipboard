@@ -81,7 +81,10 @@ if clipboard == CLOSE_COMMAND:
 <hr>
 
 You will need to install this python module
+<br>
 `~$ pip3 install pyperclip win32gui win32con`
+<br>
 then, run
+<br>
 `~$ python3 main.py`
 
